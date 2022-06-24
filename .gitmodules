@@ -1,0 +1,3 @@
+[submodule "MiniAndroidMainDex"]
+	path = MiniAndroidMainDex
+	url = https://github.com/PuffinGames/MiniAndroidMainDex
